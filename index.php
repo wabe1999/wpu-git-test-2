@@ -12,4 +12,3 @@
         <li>Umur</li>
     </ul>
 </body>
-</html>
